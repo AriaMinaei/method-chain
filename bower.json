@@ -1,0 +1,21 @@
+{
+  "name": "method-chain",
+  "version": "0.0.0",
+  "homepage": "https://github.com/AriaMinaei/method-chain",
+  "authors": [
+    "Aria <aria.minaei@gmail.com>"
+  ],
+  "description": "Small utility for method chaining",
+  "main": "scripts/js/lib/MethodChain.js",
+  "keywords": [
+    "utility"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
