@@ -1,6 +1,6 @@
 {
   "name": "method-chain",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Small utility for method chaining",
   "main": "scripts/js/lib/MethodChain.js",
   "devDependencies": {
